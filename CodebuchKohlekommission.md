@@ -14,4 +14,6 @@ party: Parteizugehörigkeit. 1= CSU/CDU ; 2= SPD ; 3= Grünen ; 4= Afd ; 5= Die 
 type: Art des Akteuers. 1= Person ; 2= Organisation <p>
 representation: Funktion innerhalb der Organisation. 1= Politik ; 2= Wirtschaft ; 3= Gewerkschaft ; 4= Umwelt ; 5= Regionen; 6= Wissenschaft <p>
 postiton: Stellung innerhalb der Organisation. 1= Vorsitz; 2= Mitglied ; 3= kein Stimmrecht <p>
-state: Bundesland. 1= Baden-Württemberg; 2= Bayern; 3= Berlin ; 4= Brandenburg ; 5= Bremen ;6= Hamburg ; 7= Hessen ; 8= Mecklenburg-Vorpommern ; 9= Niedersachsen ; 10= Nordrhein-Westfalen ;11= Rheinland-Pfalz ; 12= Saarland ; 13= Sachsen ; 14= Sachsen-Anhalt ; 15= Schleswig-Holstein ; 16= Thüringen
+state: Bundesland. 1= Baden-Württemberg; 2= Bayern; 3= Berlin ; 4= Brandenburg ; 5= Bremen ;6= Hamburg ; 7= Hessen ; 8= Mecklenburg-Vorpommern ; 9= Niedersachsen ; 10= Nordrhein-Westfalen ;11= Rheinland-Pfalz ; 12= Saarland ; 13= Sachsen ; 14= Sachsen-Anhalt ; 15= Schleswig-Holstein ; 16= Thüringen <p>
+  
+NA= keine Angabe
